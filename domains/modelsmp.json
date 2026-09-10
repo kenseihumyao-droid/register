@@ -1,1 +1,19 @@
-
+{
+  "subdomain": "modelsmp",
+  "owner": {
+    "username": "kenseihumyao-droid",
+    "email": "kenseihumyao@gmail.com"
+  },
+  "records": {
+    "A": ["147.185.221.31"],
+    "SRV": [
+      {
+        "name": "_minecraft._tcp.play",
+        "priority": 0,
+        "weight": 0,
+        "port": 25565,
+        "target": "practicing-janeiro.tun.ply.gg"
+      }
+    ]
+  }
+}
