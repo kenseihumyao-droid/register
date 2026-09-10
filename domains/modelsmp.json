@@ -2,10 +2,15 @@
   "subdomain": "modelsmp",
   "owner": {
     "username": "kenseihumyao-droid",
-    "email": "kenseihumyao@gmail.com"
+    "email": "YOUR_EMAIL"
   },
   "records": {
-    "A": ["147.185.221.31"],
+    "A": [
+      "147.185.221.31"
+    ],
+    "CNAME": {
+      "bedrock": "practicing-comma.tun.ply.gg"
+    },
     "SRV": [
       {
         "name": "_minecraft._tcp.play",
